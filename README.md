@@ -5,7 +5,7 @@ An AI-powered application that allows users to **chat with any YouTube video** b
 Built using **LangChain, HuggingFace, FAISS, and Streamlit**, this app extracts video transcripts and enables intelligent question answering using **Llama 3.1**.
 
 ---
-
+ 
 ## ✨ Features
 
 * 🎥 Extracts transcripts from YouTube videos
