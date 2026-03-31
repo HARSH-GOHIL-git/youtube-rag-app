@@ -6,12 +6,6 @@ Built using **LangChain, HuggingFace, FAISS, and Streamlit**, this app extracts 
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your deployed link here later)*
-
----
-
 ## ✨ Features
 
 * 🎥 Extracts transcripts from YouTube videos
